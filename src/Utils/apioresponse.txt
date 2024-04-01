@@ -1,0 +1,217 @@
+{
+    "places": [
+        {
+            "formattedAddress": "87, 150 Feet Ring Rd, Shastri Nagar, Dharam Nagar, Rajkot, Gujarat 360005, India",
+            "location": {
+                "latitude": 22.315462099999998,
+                "longitude": 70.7674037
+            },
+            "displayName": {
+                "text": "Ather Space - Electric Scooter Experience Center (Jai Ganesh Future Mobility)",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "87,150 Feet Ring Rd, Shastri Nagar, Dharam Nagar, Rajkot",
+            "photos": [
+                {
+                    "name": "places/ChIJzfllFM7JWTkRUsuY0B7DzT0/photos/ATplDJaD8NZCo-OeLUQQKLhsbh_m6taP5bUREn6UGLoDZGx-l4WYOj13u6b2k_TMYbN6eJqhERNHJo51DktqaxIMfZgi0Yvk6Ea5V2nApSaD8Kumg0-klJPTpVVJpRQlKG_EfoG8CAZ8khtMTrQMcSopBhewT3nEvRTFurXP",
+                    "widthPx": 1152,
+                    "heightPx": 648,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Saravanan Ather",
+                            "uri": " //maps.google.com/maps/contrib/113709474774169248296",
+                            "photoUri":"//lh3.googleusercontent.com/a/ACg8ocJ0FlE3EacmbdrWNylA2Rx0jyh58_eImplzunRqb4dq=s100-p-k-no-mo"}]},{"name":"places/ChIJzfllFM7JWTkRUsuY0B7DzT0/photos/ATplDJZ2WqLgF9ZSnRB0C1eTow3pb563eCOiCM0JW9xQt_d6Rm3SVdBz_ysXzP-5wORcgnZkNyMRRag0wP6BQu6yn
+FAIPCLZzcIoMj9azsf72i6fFabyEFBi9xGAfjPFV9shPmGu5buNOPDKhJecBi6kIRP8Qgl2YBNwZSBL","widthPx":4000,"heightPx":2250,"authorAttributions":[{"displayName":"MAYUR BHUVA","uri":"
+                            //maps.google.com/maps/contrib/102396238834680135412","photoUri":"//lh3.googleusercontent.com/a-/ALV-UjWVqMKWJbMvUaWN-cut5-aVz39iflRojRQ3IPunAzMp5Ys=s100-p-k-no-mo"}]},{"
+name":"places/ChIJzfllFM7JWTkRUsuY0B7DzT0/photos/ATplDJZr_hQh-ai8-N8OQsuMdhUb977bmA0HpuAH2goQNd_8S2iopGSc9ScVuYWwyDrw4HqNXz_TcbDQyqb3h4axqfpO1KaDTIFtgrOKz0dQYALk4mU896ImI
+byWP8WyAWgK0EAIAPlxvfNrKmiAiNwlbQKw6pU12_aGVC0g","widthPx":648,"heightPx":1152,"authorAttributions":[{"displayName":"Saravanan Ather","uri":" //maps.google.com/maps/contri
+b/113709474774169248296","photoUri":" //lh3.googleusercontent.com/a/ACg8ocJ0FlE3EacmbdrWNylA2Rx0jyh58_eImplzunRqb4dq=s100-p-k-no-mo"}]},{"name":"places/ChIJzfllFM7JWTkRUsu
+Y0B7DzT0/photos/ATplDJb6bHWRmYmYrrWWwz-5Y5eRjk5lYdfBYATfTt67nrwg9-WivNKGpt5ZbnNy_d0hp36-2PtL0mvbS0cVi0ihxxskFWL7VJDYNRd508wCBRmUwAD87o2Rq-w9SSunVE0_FWnB955D9TgORmnx00HXj4
+Y-0GA_zDpAl0Le","widthPx":4128,"heightPx":3096,"authorAttributions":[{"displayName":"Super Skul","uri":" //maps.google.com/maps/contrib/107604883592716637148","photoUri":"
+                            //lh3.googleusercontent.com/a/ACg8ocIq0N-PByAzk3GrWwpB0VQjo7whDs_kYi79ol0oQBI1=s100-p-k-no-mo"}]},{"name":"places/ChIJzfllFM7JWTkRUsuY0B7DzT0/photos/ATplDJYwg3I7hrKPOJItJ
+FUQ8aHbh1FaSXAE62Heh4RWOmuY8s_0uaGkHFejaodst0bcLfKXwjSp52Z0mMBAVSLrqNFLxO1c8dHLf1x0NP5GFQbRko8HQlwLZeDO1xkTSVTZ_hc_09oZ5odjTdkYbhEGa6bJJwSlaC8h4xZS","widthPx":4000,"heigh
+tPx":2250,"authorAttributions":[{"displayName":"MAYUR BHUVA","uri":" //maps.google.com/maps/contrib/102396238834680135412","photoUri":"//lh3.googleusercontent.com/a-/ALV-U
+jWVqMKWJbMvUaWN-cut5-aVz39iflRojRQ3IPunAzMp5Ys=s100-p-k-no-mo"}]},{"name":"places/ChIJzfllFM7JWTkRUsuY0B7DzT0/photos/ATplDJZI2ufzUCIas9B54-pdUSJsBtXweMCG7UhOf7nhur_UNIvCD
+fiPv73yKIqpX4oVfbtCeEF83eOsVRDQK7Sh-mHT3FbDBLKHW22_e62Js_9mey1f-v-hDPMbx7pcN0DCuV3nMww9Ps1Mec6E6TOxunaD-qQLHg_RalvU","widthPx":4128,"heightPx":3096,"authorAttributions":[{"displayName": "Super Skul","uri": " //maps.google.com/maps/contrib/107604883592716637148",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIq0N-PByAzk3GrWwpB0VQjo7whDs_kYi79ol0oQBI1=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name":"places/ChIJzfllFM7JWTkRUsuY0B7DzT0/photos/ATplDJYYdM3aPRnD3f3rQaxaSBJFC1gQJopOwoH3qBNc7tnoCa1xmsXgFPb-F2XilcL-TZLWZ06y3BZnVy62gjZKSD
+ndmyKPjhjN49869dMRxhhsCAjNHYrwC9Tt9eloEXUirxK-0rCJVVFtv1XPP616SgqJT0gB4EFDbc2k","widthPx":4128,"heightPx":3096,"authorAttributions":[{"displayName":"Super Skul","uri":" //
+maps.google.com/maps/contrib/107604883592716637148","photoUri":" //lh3.googleusercontent.com/a/ACg8ocIq0N-PByAzk3GrWwpB0VQjo7whDs_kYi79ol0oQBI1=s100-p-k-no-mo"}]},{"name":
+"places/ChIJzfllFM7JWTkRUsuY0B7DzT0/photos/ATplDJZTHVlZJB3khGTZItLVv8_OUnzohdnBr6UUeKZDxOwmIK6aNKfpuU6HLZpPiXZ4cX79noVvPdIN1w_FJDdBolXnZf0Ev_c8fC6I3rVOFfya3arEd6fQf9PdPvb
+BXb8dOLW3HkGkMlYZS54VtSH-Azjb3mziRePKr0fs","widthPx":4128,"heightPx":3096,"authorAttributions":[{"displayName":"Super Skul","uri":" //maps.google.com/maps/contrib/10760488
+                    3592716637148","photoUri":" //lh3.googleusercontent.com/a/ACg8ocIq0N-PByAzk3GrWwpB0VQjo7whDs_kYi79ol0oQBI1=s100-p-k-no-mo"}]},{"name":"places/ChIJzfllFM7JWTkRUsuY0B7DzT0/p
+hotos/ATplDJYvZWJK7p7XIsnYfAx9C-ALHO--IbDlgIlVVc4BW8E7WbkZAtNAlwst-WtDjeI28WznTNZusWfU4_aLfozIjbk4DUzfhEq9wFcNq-i97sO8iK2fLyRo9UGmmkjvsjgQZRhuuYNNBuQ83I-hEFR2wPVsIwUNyqrz
+7Icp","widthPx":4128,"heightPx":3096,"authorAttributions":[{"displayName":"Super Skul","uri":" //maps.google.com/maps/contrib/107604883592716637148","photoUri":"//lh3.goog
+leusercontent.com/a/ACg8ocIq0N-PByAzk3GrWwpB0VQjo7whDs_kYi79ol0oQBI1=s100-p-k-no-mo"}]},{"name":"places/ChIJzfllFM7JWTkRUsuY0B7DzT0/photos/ATplDJYeBQgKR3ZzyCsUoqPW-rRngoJ
+E1FdZW-Ay2fkAsG2KeY4R4YaQTKwh3R9uubyDfpJy6TaIF0viDrp2uJE3oj3ZJP8zzCY_iG7rhZbPHfLaAJ_Je5lFaXra-GaBTVpa2EBJ01MnMj9PjK55W4MRjhOdoAtABdBb3W9H","widthPx":4128,"heightPx":3096,"authorAttributions": [{"displayName": "Super Skul","uri": " //maps.google.com/maps/contrib/107604883592716637148",
+                    "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIq0N-PByAzk3GrWwpB0VQjo7whDs_kYi79ol0oQBI1=s100-p-k-no-mo"
+                }
+            ]
+        }
+    ]
+},
+{
+    "formattedAddress": "Kalavad Rd, near Saraza, Mota Mava, Rajkot, Gujarat 360005, India",
+    "location": {
+        "latitude": 22.2699434,
+        "longitude": 70.741686
+    },
+    "displayName": {
+        "text": "Centria Fuels",
+        "languageCode": "en"
+    },
+    "shortFormattedAddress": "Kalavad Rd, Saraza, Mota Mava, Rajkot",
+    "photos": [
+        {
+            "name":"
+places/ChIJN2QqwTvLWTkRGTKbyrAzmt4/photos/ATplDJZWndRENNiYYzaeJeoMfoYe24VJxUIRn-2azZO5eYoNnpD5NKhJ1iPpPqQ0ztqfLP_YFpvI7RuFhJ-SPObK9xiTy-7tXoCpt5rlzZPJqKcWoUj3KJFO-cwTpu2q
+YonBoaDng6dsncn_z_ohPtgFO-Kyhct9r2yVgXVH","widthPx":1024,"heightPx":768,"authorAttributions":[{"displayName":"Centria Fuels","uri":" //maps.google.com/maps/contrib/1058672
+            93227095554256","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjVfmjvW3TxfiGRoNqLHlsuptK49VzBRkhOh1Sw4dKj9hg=s100-p-k-no-mo"}]},{"name":"places/ChIJN2QqwTvLWTkRGTKbyrAzm
+t4/photos/ATplDJY7mrW-YDGN_UnpMzWuFk4hP34vsYvss-9ALOTe8vVqwCP3eKiPW0xHHup3BNN0nYxIJ9ZIRF72j8SIsdC5c94Hg5rzHj7xKBtbmAtMNdVDE9D21N_HWpKdQdcu2ODjtxk7W-cDHz39pzER6qAmuUlSs0Ic
+h-fcA5JF","widthPx":1024,"heightPx":768,"authorAttributions":[{"displayName":"Centria Fuels","uri":" //maps.google.com/maps/contrib/105867293227095554256","photoUri":"//lh
+3.googleusercontent.com/a-/ALV-UjVfmjvW3TxfiGRoNqLHlsuptK49VzBRkhOh1Sw4dKj9hg=s100-p-k-no-mo"}]},{"name":"places/ChIJN2QqwTvLWTkRGTKbyrAzmt4/photos/ATplDJZAkARbiPRsapcOUn
+NYpwvdOF3AH_khNO5c49yZ7O1ng1dip7ZZQekEC5cXDBvgJ4xvR6qQprkVmRuatHzSgbcCk-Ur5DXz1rGVbjrknINHmHQHfwixpd23_L2vNqX3Mb5Q1dDLaVAgYn6KlfJJ0XUEHwFj3sf0ige0","widthPx":3024,"height
+Px":4032,"authorAttributions":[{"displayName":"Ravirajsinh Jadeja","uri":" //maps.google.com/maps/contrib/111160282514034572446","photoUri":"//lh3.googleusercontent.com/a/
+ACg8ocKxVwhH2yzbsQq7ipN2wy1aU3QfpGB1lUk47NheTB1W=s100-p-k-no-mo"}]},{"name":"places/ChIJN2QqwTvLWTkRGTKbyrAzmt4/photos/ATplDJbn4IRnkXGxmhfPRLMklZFJjpDOalGpNfxqm7lou4JmODJ
+eTvL13El3JvifBsIQp9bqC6GI5ceEjmQWMskb2sAr1tB9za8n08BvdGMTscru3lHjOipbwpuCtxgu-6SSbBi3gdgXbk3lLYX9ujiSSbVZpUKdsYE6pJyc","widthPx":3024,"heightPx":4032,"authorAttributions": [{"displayName": "Centria Fuels","uri": " //maps.google.com/maps/contrib/105867293227095554256",
+            "photoUri":"//lh3.googleusercontent.com/a-/ALV-UjVfmjvW3TxfiGRoNqLHlsuptK49V
+zBRkhOh1Sw4dKj9hg=s100-p-k-no-mo"}]},{"name":"places/ChIJN2QqwTvLWTkRGTKbyrAzmt4/photos/ATplDJbjAlT9cj_6YDALhXEX1ttn09tQXOt52QxxLmnqM1AMcjwIwAu_Tj9gfdupcwf4vF10C9AM3WeCKa
+_FxAtANgQdb4tRCc2FlaGnSavyUurBrf3rx9dEYpJRK13OLKQzdU2yalNjNqYVNxmGehER9MBt9mdlfhskpj--","widthPx":4032,"heightPx":3024,"authorAttributions":[{"displayName":"Centria Fuels
+","uri":" //maps.google.com/maps/contrib/105867293227095554256","photoUri":"//lh3.googleusercontent.com/a-/ALV-UjVfmjvW3TxfiGRoNqLHlsuptK49VzBRkhOh1Sw4dKj9hg=s100-p-k-no-m
+o"}]},{"name":"places/ChIJN2QqwTvLWTkRGTKbyrAzmt4/photos/ATplDJaBjTsxJ0KkGfoH-CjR6g8cBCM19dwe2J1ZrDCBeHRVsslvLcM11NdS0hMa5oQ-OvvDeKeupij-bdMm9JvVL6smJtyjgvRodpi5MKy5iNMI9
+7ep7iGb2-i8NCaSd-1hsvU7TFrbMic74OO3luT8NezcbFk1T1P1w88_","widthPx":4618,"heightPx":3464,"authorAttributions":[{"displayName":"Shabir Chaniya","uri":" //maps.google.com/map
+s/contrib/110924179642861969136","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjXiVM5zD1qzlZ2Q3RA8CtbLG3XsWXrIzgwUu_tRmTnUrrA=s100-p-k-no-mo"}]},{"name":"places/ChIJN2Q
+qwTvLWTkRGTKbyrAzmt4/photos/ATplDJb5UNaHCDoFke5jO1k1SIzOtNBjUjY0xnTLczexWPRSM0RZU3OuMNcjryxYIe-Udwi8EdKW6QEqflkGDrF_3IWer_01-TCw31I83XWxZ7HGygVLSwDp0hfGJM5aPbZedFTkQGyOSz
+2y-043WPbNJ8vrFEanMsGXRqAK","widthPx":4032,"heightPx":3024,"authorAttributions":[{"displayName":"Ravirajsinh Jadeja","uri":" //maps.google.com/maps/contrib/111160282514034
+            572446","photoUri":" //lh3.googleusercontent.com/a/ACg8ocKxVwhH2yzbsQq7ipN2wy1aU3QfpGB1lUk47NheTB1W=s100-p-k-no-mo"}]},{"name":"places/ChIJN2QqwTvLWTkRGTKbyrAzmt4/photos/A
+TplDJYb7gP4dsAgvg9y5pEGxqCxuNmPN5wqN4Vlcx1RiHliXgyWrlihkAVyDhjGVYZ1zYxcjAHVZbnq_kbOFxFqjxwIIR2wI4ZB7dGS3INqxOrZnw8Uqgb7JZGKkvN_ieyHBVFdMamvKyXJJjdI4dTREjWTXuI6cx58mg8Y","
+widthPx":2244,"heightPx":2992,"authorAttributions":[{"displayName":"anil bera","uri":" //maps.google.com/maps/contrib/101806636338456942502","photoUri":"//lh3.googleuserco
+ntent.com/a-/ALV-UjUSKTVI6xFBoeSkizkiUShT1gMDjwojxV9KboivC1MK_YSR=s100-p-k-no-mo"}]},{"name":"places/ChIJN2QqwTvLWTkRGTKbyrAzmt4/photos/ATplDJaazWsCM91dQxJ5Ig5DQ8vTS5dtmQ
+ZQcvUphEhiz4HdH2E2v0QKIdvQGR9ukyhuEMLuv_nImF8BUeZw3ugFQsOZC4QlDAHJSBN8r4QbKbQ5LHI5hQ_Oo94pNxytCBPjcAZDAECB-AAO-g_2NtqwMrLxha-0eLbWEO5A","widthPx":3024,"heightPx":4032,"au
+thorAttributions":[{"displayName":"Ravirajsinh Jadeja","uri":" //maps.google.com/maps/contrib/111160282514034572446","photoUri":"//lh3.googleusercontent.com/a/ACg8ocKxVwhH
+            2yzbsQq7ipN2wy1aU3QfpGB1lUk47NheTB1W=s100-p-k-no-mo"}]},{"name":"places/ChIJN2QqwTvLWTkRGTKbyrAzmt4/photos/ATplDJYq-ujWTWNeKbzRx7Vlg8t_ZVMfY8CgQHqzI6Py354Y5aj9H_SWB7mW6Mx
+7kDXaKk1hiPndK6Tmz7pKQ_g6I7pYEc2EbxgCTkFMFgSxvBXWJpWLXkH8JQxc3eOH3gkwSg7V4bHDX27zOjM6annfp9ccLbS15iwbHdae","widthPx":3024,"heightPx":4032,"authorAttributions":[{"displayN
+ame":"Centria Fuels","uri":" //maps.google.com/maps/contrib/105867293227095554256","photoUri":"//lh3.googleusercontent.com/a-/ALV-UjVfmjvW3TxfiGRoNqLHlsuptK49VzBRkhOh1Sw4d
+Kj9hg=s100-p-k-no-mo"}]}]},{"formattedAddress":"AADARSH GREEN Shree krishna kunj , ground floor Geet gurjari society main road, near airport road, Geet Gujri Society, Sak
+hiya Nagar, Rajkot, Gujarat 360007, India","location":{"latitude":22.3053982,"longitude":70.7832591},"displayName":{"text":"AADARSH GREEN TECHNOLOGY AND SOLUTIONS","langu
+ageCode":"en"},"shortFormattedAddress":"AADARSH GREEN Shree krishna kunj , ground floor Geet gurjari society main road, airport road, Rajkot","photos":[{"name":"places/Ch
+IJ_Q13dl7JWTkRvuLHMheTGBA/photos/ATplDJZc0rU9USMhCZuhG1qksyx2Idg7jZSWUsbhzHY1ET0gU8W9gnAzgrLOTd1u0F-W7142-RQN45NlYTau4P6cou9W1-PVbb2HuRF5MUsy3SyvYTomiBRdZ9zaROggOwzIMeghU
+41kYVbtWZ0Kffn-_6lvg0VFCYWtczkC","widthPx":4000,"heightPx":1800,"authorAttributions":[{"displayName":"AADARSH GREEN TECHNOLOGY AND SOLUTIONS","uri":" //maps.google.com/map
+s/contrib/116402846744881107538","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjXc-OFHCCBGIrgIa5OoDLRN5pA7oTiwKwNc6byAMl3_Gg=s100-p-k-no-mo"}]},{"name":"places/ChIJ_Q13
+dl7JWTkRvuLHMheTGBA/photos/ATplDJZhZsOQulihByJsjpNzsgWQc-3PzZdsUb6xl-tct-8AcOG_oZYFr2Wu59hsFu5uOBn5lqigyPtHSPex5rtKtCPPWUpZpyiK4TUhGxHjyr55c3y6yxYcjPTduy0VQS2TJ44lAWOsx7d
+sa3NDi-TWrYZZm8rsz7vRpttH","widthPx":1600,"heightPx":901,"authorAttributions":[{"displayName":"AADARSH GREEN TECHNOLOGY AND SOLUTIONS","uri":" //maps.google.com/maps/contr
+ib/116402846744881107538","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjXc-OFHCCBGIrgIa5OoDLRN5pA7oTiwKwNc6byAMl3_Gg=s100-p-k-no-mo"}]},{"name":"places/ChIJ_Q13dl7JWTk
+RvuLHMheTGBA/photos/ATplDJZ17HdZWDBvRTue9bd-hxNL47vViXYlH4IuQ4hjlo_2Tx11rlYosN7OO5muFDFTtWXyMconqtkk39ss43qO_mmr6TXRrBaJ_bv1xV7LwtcHQolIWWIIR0QXe2MpIT_vzk8_Ry0ihNa1nVTy3I
+l_qbILoQqzRriZopcl","widthPx":824,"heightPx":1280,"authorAttributions":[{"displayName":"AADARSH GREEN TECHNOLOGY AND SOLUTIONS","uri":" //maps.google.com/maps/contrib/1164
+            02846744881107538","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjXc-OFHCCBGIrgIa5OoDLRN5pA7oTiwKwNc6byAMl3_Gg=s100-p-k-no-mo"}]},{"name":"places/ChIJ_Q13dl7JWTkRvuLHMh
+eTGBA/photos/ATplDJbYC8gKPtfJTlVMVgdMJDVvcy4xr2vxVktxxxaDEFrZKvFsSGSu98-QJgwNHqVi8XUZHsInZ6b0idU0mytMMBcWkBJXW2jM3mrQ2e8M0E6r2pHLy0xEZDDvsF25TvQ3pyNNDvvko912o5oaTcI3E47hK
+hpGD0LJ3KIO","widthPx":8160,"heightPx":6144,"authorAttributions":[{"displayName":"AADARSH GREEN TECHNOLOGY AND SOLUTIONS","uri":" //maps.google.com/maps/contrib/1164028467
+            44881107538","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjXc-OFHCCBGIrgIa5OoDLRN5pA7oTiwKwNc6byAMl3_Gg=s100-p-k-no-mo"}]},{"name":"places/ChIJ_Q13dl7JWTkRvuLHMheTGBA/
+photos/ATplDJbLYx_LRH6NaE7rm_Gvqa1b9Gz2I00Izh_7lTtoea0OMsngRrjMBJsrGAFt2FK7nmR5NJUiQFou9l9IEE64gJO_-l8g_wumycOBAKnBjrzLw2t9Y-60iCbT-bIhFzqmb3-bLnlxWTfaIMbf38jWW02d-zTMO62
+cE0CS","widthPx":4000,"heightPx":1800,"authorAttributions":[{"displayName":"Darshan Ojha","uri":" //maps.google.com/maps/contrib/112084959711400324810","photoUri":"//lh3.g
+oogleusercontent.com/a-/ALV-UjUhJ2ZICUbtVr6jm33IUDefogHv-uiEUsp1WPuSIy4B3g=s100-p-k-no-mo"}]},{"name":"places/ChIJ_Q13dl7JWTkRvuLHMheTGBA/photos/ATplDJZmLCWm_HGPgyXMuKaP_
+oP1F2Nb9enwRlm6taFLGo2yVNcVPpxO1Bm0sD1enyIungRkYA_2G5l4j48iv1Rjs0Tfz3g97HkFgcgVxB1iCisjp1Gav60x1vEIBAVGGdS93zo6yvT5aBCP5xz32K4_z16u6bnxrjUxph5S","widthPx":4000,"heightPx": 1800,"authorAttributions": [{"displayName": "Darshan Ojha","uri": " //maps.google.com/maps/contrib/112084959711400324810",
+            "photoUri":"//lh3.googleusercontent.com/a-/ALV-UjUh
+J2ZICUbtVr6jm33IUDefogHv-uiEUsp1WPuSIy4B3g=s100-p-k-no-mo"}]},{"name":"places/ChIJ_Q13dl7JWTkRvuLHMheTGBA/photos/ATplDJYPEom855ub_evuUf1OFdrBrvMpxxQGSht5QJhls7IpwI8B1s8sc
+AqVhBfFYocrvMuzs5CzzWuo8uEyE_7pnbDxTI5Lvr3-Td0-lqTcFK-PjjlwTxUxKJqInNKZ4qnUTGbjA2eDgcvOXie47VrouoDm3CgKN7KtrRe-","widthPx":4000,"heightPx":3000,"authorAttributions":[{"di
+splayName":"AADARSH GREEN","uri":" //maps.google.com/maps/contrib/116226930424368920345","photoUri":"//lh3.googleusercontent.com/a-/ALV-UjVRFqQzwBPRCLvR0YHgq5sBBj8WhVXO1eF
+m0PEqEexUQA=s100-p-k-no-mo"}]},{"name":"places/ChIJ_Q13dl7JWTkRvuLHMheTGBA/photos/ATplDJbXonuqZsDHLn81KqiPUqMXudmUvtPnqwk5FiaDZ0SiAkbYnQ_N1-QmRVKk_NRJNSyQEV4xKKBosmd13j3G
+EgMmcPpYdL43NqtTrAo7s5ab1WtPK7-u6aMaF_iIIks9JddL_X-sEp8eI5MGDoNM3CObnppt_YWAKZrO","widthPx":6144,"heightPx":8160,"authorAttributions":[{"displayName":"AADARSH GREEN TECHN
+OLOGY AND SOLUTIONS","uri":" //maps.google.com/maps/contrib/116402846744881107538","photoUri":"//lh3.googleusercontent.com/a-/ALV-UjXc-OFHCCBGIrgIa5OoDLRN5pA7oTiwKwNc6byAM
+l3_Gg=s100-p-k-no-mo"}]},{"name":"places/ChIJ_Q13dl7JWTkRvuLHMheTGBA/photos/ATplDJZ1jpBuY4qG-jKZgPUWvOc2bOLoEmWQ7bVSTqxBw9kOQl6VZNZ-tQbs_9_UCZNDet270oskOjDYDp58mSLYD4mRCN
+Mo0pIdz6dREJgu-h4iPxYrPRpjiwKU39xCVZXOfUU8IU1VWBEjHMxXhnRqfenSJcN-2JI0Ivwh","widthPx":4000,"heightPx":3000,"authorAttributions":[{"displayName":"Parth Sabhaya","uri":" //m
+aps.google.com/maps/contrib/104654609073840862761","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjW_5gR8o7NbZsPB42902mRH0vKda14sNTPW4ZkZIpS56lg=s100-p-k-no-mo"}]},{"nam
+e":"places/ChIJ_Q13dl7JWTkRvuLHMheTGBA/photos/ATplDJYe9JxLKWOg8vWUgIJpYYyk13EidVkMyZA6xUEflwp6ta4aTLQ8pX_w1R7FSYE1tF5Fj4mYRI8Rs6UnixaMbCY52SHQdgbJgwV6678j5cEtjdaJ_kSN8wUt
+u1vsJpeqCoak4t75Ei-QmOMvFfPXm9JW_xFsbZrNUzzT","widthPx":1607,"heightPx":4000,"authorAttributions":[{"displayName":"AADARSH GREEN TECHNOLOGY AND SOLUTIONS","uri":" //maps.g
+oogle.com/maps/contrib/116402846744881107538","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjXc-OFHCCBGIrgIa5OoDLRN5pA7oTiwKwNc6byAMl3_Gg=s100-p-k-no-mo"}]}]},{"formatt
+edAddress":"Simran, Tagore Rd, near JP Towers, opposite Golden Plaza, Godown Road Corner, GIDC UdhyogNagar, Bhakti Nagar, Rajkot, Gujarat 360002, India","location":{"lati
+tude":22.284378699999998,"longitude":70.7935693},"displayName":{"text":"Ather Grid Charging Station","languageCode":"en"},"shortFormattedAddress":"Simran, Tagore Rd, JP T
+owers, Golden Plaza, Godown Road Corner, GIDC UdhyogNagar, Bhakti Nagar, Rajkot","photos":[{"name":"places/ChIJazVkMvDLWTkRGRGZuoTE-a4/photos/ATplDJYAq9owLf2ablprJf0_Y4vP
+CybK2BfhKpAtGFRx3DXG8gmcWST84KBUxs_zRasQ1dwtChAgPWfeMFvaYJ88h1B7FpUoKSyS0sAN6NrFcX3nR9w3dp647kdS_5mNaUUoU0x8hf6msYsWX_xf6CS33-YWqx77E5hFGQQP","widthPx":3024,"heightPx":4032,"authorAttributions": [{"displayName": "Ravirajsinh Jadeja","uri": " //maps.google.com/maps/contrib/111160282514034572446",
+            "photoUri":"//lh3.googleusercontent.com/a/ACg8oc
+KxVwhH2yzbsQq7ipN2wy1aU3QfpGB1lUk47NheTB1W=s100-p-k-no-mo"}]},{"name":"places/ChIJazVkMvDLWTkRGRGZuoTE-a4/photos/ATplDJafFASZVGQbwRuBhqME1Xsf_Zc_LDdG22FvOU_zG_ykGpuWXv_Th
+GD8ScI02ck-xUDoTh0IkGcNhzCpicBo2vnZwNjvhaCKj2_kESughpDPR73TwV-gWYbOIgac9yW1Vn54w_MlaESQ40wzk7CnZrgW5GqnpKTHajot","widthPx":3024,"heightPx":4032,"authorAttributions":[{"di
+splayName":"Ravirajsinh Jadeja","uri":" //maps.google.com/maps/contrib/111160282514034572446","photoUri":"//lh3.googleusercontent.com/a/ACg8ocKxVwhH2yzbsQq7ipN2wy1aU3QfpGB
+            1lUk47NheTB1W=s100-p-k-no-mo"}]}]},{"formattedAddress":"7QC8+Q8W, Nana Mava, Rajkot, Gujarat 360005, India","location":{"latitude":22.271993400000003,"longitude":70.7658421
+        },
+        "displayName": {
+            "text": "VerdeMobility Charging Station",
+            "languageCode": "en"
+        },
+        "shortFormattedAddress": "7QC8+Q8W, Nana Mava, Rajkot",
+        "evChargeOptions": {
+            "connectorCount": 3,
+            "connectorAggregation": [
+                {
+                    "type": "EV_CONNECTOR_TYPE_UNSPECIFIED_WALL_OUTLET",
+                    "maxChargeRateKw": 3.299999952316284,
+                    "count": 2
+                },
+                {
+                    "type": "EV_CONNECTOR_TYPE_TYPE_2","maxCharge
+RateKw":7.400000095367432,"count":1}]}},{"formattedAddress":"AXIS 12 B Street No,
+                    3A, University Rd, Panchayat Nagar, Rajkot, Gujarat 360005, India","location":{"latitude
+":22.2873417,"longitude":70.7657268},"displayName":{"text":"Axis Enertech","languageCode":"en"},"shortFormattedAddress":"AXIS 12 B Street No,
+                    3A, University Rd, Panchayat
+ Nagar, Rajkot","photos":[{"name":"places/ChIJP2d8MqbLWTkRhHHCOLB3EOw/photos/ATplDJZxibPq6u5ueDBgAS9-rMxgQ0olNXATWDWQCyMrEVau1Wc0wcaWb335gCSpcqeWl90uG-cLvjU-uku9P_EXpnNUK
+qZKZ9Z22k8oV1C6GCsffWBjB2Nm9PZHhfGHZA-K_U6ZFXFLwNkY5WT21dswGltrfWPss1p21Sjv","widthPx":1440,"heightPx":809,"authorAttributions":[{"displayName":"Axis Enertech","uri":" //m
+aps.google.com/maps/contrib/111339146063701837524","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjWYY-DIWC_4TuUrksvSTRPXagHScbBWOTKqEwd_kpo3sg=s100-p-k-no-mo"}]},{"name
+                    ":"places/ChIJP2d8MqbLWTkRhHHCOLB3EOw/photos/ATplDJYJZ45bT67aRqQfPGmXl-6oEMCDf9HW4sOlZrm8B1UUb1g5MB4DUhbgN-nQm4A__ii1hLW7BsCJhzXcvp3dFG4d8DcvoyBghW0W7TPtFSRuGMAv2CBG_t18z
+JL479eehQ88Ppxoy0FK-Tmuj0oizDP31u-4VQo1Muvj","widthPx":4000,"heightPx":3000,"authorAttributions":[{"displayName":"Vachhani Nikhil","uri":" //maps.google.com/maps/contrib/1
+                    10445183736580895754","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjWmx7jb_iRFTlybm3Z9hFyHCiMunTHU25n-kILzo9eKBJ4=s100-p-k-no-mo"}]},{"name":"places/ChIJP2d8MqbLWTkRhH
+HCOLB3EOw/photos/ATplDJYGHFNXP89WvF06PfxpzheXagYKMD7PvedyOnTpQ1Xi6LEvMbDRnsA70qu0ixR5hRkZKsTZkiat3_sb_Vaon3GtPrt2v2uyHzo8igg0wa__2gLJIqEx3aBvySfc0lHGuiIY4WQjDVZU7Tyd7DCO7
+r2K8GNMtj2IzHr_","widthPx":3999,"heightPx":3000,"authorAttributions":[{"displayName":"Axis Enertech","uri":" //maps.google.com/maps/contrib/111339146063701837524","photoUr
+i":" //lh3.googleusercontent.com/a-/ALV-UjWYY-DIWC_4TuUrksvSTRPXagHScbBWOTKqEwd_kpo3sg=s100-p-k-no-mo"}]},{"name":"places/ChIJP2d8MqbLWTkRhHHCOLB3EOw/photos/ATplDJY7uFQOZf
+t1BNimu2cpnRy1TAsFtWRiKIviGR6TK1-r38uD2ugFSdM5ehSkaYocRLO5v6NUvc8pVH5TPpFae0m6O55G5TUgGw9wj7vbBtz7ONCYI-cQn9wpLKWk8NVePD7eqmJrQPKzqCRAszvWdzRhE2rIS4iqhA6h","widthPx":4000,"heightPx": 3000,"authorAttributions": [{"displayName": "Vachhani Nikhil","uri": "//maps.google.com/maps/contrib/110445183736580895754",
+                    "photoUri":"//lh3.googleusercontent.c
+om/a-/ALV-UjWmx7jb_iRFTlybm3Z9hFyHCiMunTHU25n-kILzo9eKBJ4=s100-p-k-no-mo"}]},{"name":"places/ChIJP2d8MqbLWTkRhHHCOLB3EOw/photos/ATplDJYZCZAjbxsN7hMiRA4z69o30NPlXCOeONQxTF
+VBUf-L_cpjuJPiGFatmnhcb-MeDa4CfFvxNY7TPvGoASQYUaqVWL1JKkiBs5IywvgUlsLJjevEqC-NFXSqq1uPvMpFYIAs-z-Rc6-ZmiN3ytAsQpElV2OYRsODdu6D","widthPx":4000,"heightPx":3000,"authorAttr
+ibutions":[{"displayName":"Vachhani Nikhil","uri":" //maps.google.com/maps/contrib/110445183736580895754","photoUri":"//lh3.googleusercontent.com/a-/ALV-UjWmx7jb_iRFTlybm3
+Z9hFyHCiMunTHU25n-kILzo9eKBJ4=s100-p-k-no-mo"}]},{"name":"places/ChIJP2d8MqbLWTkRhHHCOLB3EOw/photos/ATplDJZRh53L2iVBgzPgamnx3YbKu_7FRPVi5goVsM3qQ3sZxXYIIpwI5BmX2Q2dgxsKLg
+TL4NR2GhqTjfyZWuWY-6kGKFa3IywsOWUvsjgwMfwWISon_mo4g53R9c7g4RWIC0RyqcB221jvu4EUs7HQ05q7pPSa_4QaOHHH","widthPx":4000,"heightPx":3000,"authorAttributions":[{"displayName":"V
+achhani Nikhil","uri":" //maps.google.com/maps/contrib/110445183736580895754","photoUri":"//lh3.googleusercontent.com/a-/ALV-UjWmx7jb_iRFTlybm3Z9hFyHCiMunTHU25n-kILzo9eKBJ
+                    4=s100-p-k-no-mo"}]},{"name":"places/ChIJP2d8MqbLWTkRhHHCOLB3EOw/photos/ATplDJYouXHzHsCSUD_8jf7havlsAVMkozfiSwvlV9VQAW1DNCSpY2Kp8-9H17NMlIdnnIkEwRwr6VtPYtsFe7ezxskVwipmtT
+dsTcd5O-Kh83nP0NajX0VXqL1eFnZkgr6SUseV6QNh7C4oR0z9zSklZZ6idYSvP0yLQPjQ","widthPx":4032,"heightPx":3024,"authorAttributions":[{"displayName":"Jay","uri":" //maps.google.com
+/maps/contrib/107954129355720110675","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjXYtHfjlA3_vNtjpwGFAHXkL8-i_ttr69Gho-57RN980w=s100-p-k-no-mo"}]},{"name":"places/ChIJ
+P2d8MqbLWTkRhHHCOLB3EOw/photos/ATplDJZgLsEVaTQaNWkCSvBYttQfzMyptyfckn4-JwZGFSPFauoarT7gNKskc6fsGZXfttZt9DFrEAo1FX1KRjbTHi5-Wwqh6RhmFcbSIpJCweRhR6hf1XaRrHg35QxqK15NG75V7r1
+egOYFe0gzjC4X2d9-Uq1tPDU1yI0r","widthPx":720,"heightPx":1280,"authorAttributions":[{"displayName":"Axis Enertech","uri":" //maps.google.com/maps/contrib/111339146063701837
+                    524","photoUri":" //lh3.googleusercontent.com/a-/ALV-UjWYY-DIWC_4TuUrksvSTRPXagHScbBWOTKqEwd_kpo3sg=s100-p-k-no-mo"}]},{"name":"places/ChIJP2d8MqbLWTkRhHHCOLB3EOw/photos/A
+TplDJa-oPztYdHyg1-vVOE8Txc3txTgjSjjwzcIR1frVUM6OQMz2hTkdTXqDQtwcj28uOJ5fM6-pz7wVFsmYjsCdW_iNgDRljZLko9rrOQETUHhXNOLIKPRm7TCEeEglO3Q9b4FIuqdfa9trUxwgFJFnxHVcce3zzrzgh1x","
+widthPx":1080,"heightPx":1080,"authorAttributions":[{"displayName":"Vachhani Nikhil","uri":" //maps.google.com/maps/contrib/110445183736580895754","photoUri":"//lh3.google
+usercontent.com/a-/ALV-UjWmx7jb_iRFTlybm3Z9hFyHCiMunTHU25n-kILzo9eKBJ4=s100-p-k-no-mo"}]},{"name":"places/ChIJP2d8MqbLWTkRhHHCOLB3EOw/photos/ATplDJYCGrkVWzzzzsvrYixcFi4yz
+NF1p4HyrqsuqBEG4T4EnlLWZ4KAm8jztOV4kaE2M_wTrYOY6xzQvvE1TIz0yZw0xb7vbrLLFdj1YME3sGYw1FUF2iwYeKRsp3HnqIVqv20fTpsL-fve2_nlTis3KpfRwY7b-WWB8_zR","widthPx":4000,"heightPx":3000,"authorAttributions": [{"displayName": "Axis Enertech","uri": " //maps.google.com/maps/contrib/111339146063701837524",
+                    "photoUri":"//lh3.googleusercontent.com/a-/ALV-UjWYY-D
+IWC_4TuUrksvSTRPXagHScbBWOTKqEwd_kpo3sg=s100-p-k-no-mo"}]}]},{"formattedAddress":"Xenhester Innovation Pvt Ltd 2,
+                    10, Gondal Rd, behind s t workshop, Samrat Industrial Ar
+ea, Rajkot, Gujarat 360004, India","location":{"latitude":22.2585333,"longitude":70.7978596},"displayName":{"text":"Ather Grid Charging Station","languageCode":"en"},"sho
+rtFormattedAddress":"Xenhester Innovation Pvt Ltd 2,
+                    10, Gondal Rd, s t workshop, Samrat Industrial Area, Rajkot"},{"formattedAddress":"R. K. Medical Center (RajKruti - A
+, Airport Main Rd, Two Slices Balaji Sandwich, Race Course Rd, opp. Sri Sadguru Vatika, Race Course, Maruti Nagar, Rajkot, Gujarat 360002, India","location":{"latitude":22.306814799999998,"longitude": 70.787301
+                },
+                "displayName": {
+                    "text": "Ather Grid Charging Station",
+                    "languageCode": "en"
+                },
+                "shortFormattedAddress":"R. K. Medical Center (RajKruti
+- A, Airport Main Rd, Two Slices Balaji Sandwich, Race Course Rd, Sri Sadguru Vatika, Maruti Nagar, Rajkot"},{"formattedAddress":"7Q86+HPQ, Mota Mava, Rajkot, Gujarat 360
+005, India","location":{"latitude":22.266452899999997,"longitude":70.761853},"displayName":{"text":"VerdeMobility Charging Station","languageCode":"en"},"shortFormattedAd
+dress":"7Q86+HPQ, Mota Mava, Rajkot","evChargeOptions":{"connectorCount":3,"connectorAggregation":[{"type":"EV_CONNECTOR_TYPE_TYPE_2","maxChargeRateKw":7.400000095367432,"count": 1
+            },
+            {
+                "type": "EV_CONNECTOR_TYPE_UNSPECIFIED_WALL_OUTLET",
+                "maxChargeRateKw": 3.299999952316284,
+                "count": 2
+            }
+        ]
+    }
+},
+{
+    "formattedAddress":"7Q3Q+5PR, 150 Feet Ring Rd, Madhav P
+ark, Punit Nagar, Mavdi, Rajkot, Gujarat 360004, India","location":{"latitude":22.2529994,"longitude":70.7892656},"displayName":{"text":"VerdeMobility Charging Station","
+languageCode":"en"},"shortFormattedAddress":"7Q3Q+5PR,
+    150 Feet Ring Rd, Madhav Park, Punit Nagar, Mavdi, Rajkot","evChargeOptions":{"connectorCount":3,"connectorAggregat
+ion":[{"type":"EV_CONNECTOR_TYPE_UNSPECIFIED_WALL_OUTLET","maxChargeRateKw":3.299999952316284,"count":3}]}}]}
