@@ -18,6 +18,18 @@ const Intro = () => {
         loop={true}
         hover={true}
       ></Player>
+      <Text
+        style={{
+          textAlign: "center",
+          color: Colors.BLACK,
+          position: "absolute",
+          top: verticalScale(10),
+          left: verticalScale(10),
+          fontWeight: "600",
+        }}
+      >
+        #MADE_WITH_REACTNATIVE_EXPO
+      </Text>
       <View
         style={{
           padding: verticalScale(40),
