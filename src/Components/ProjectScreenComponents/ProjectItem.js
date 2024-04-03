@@ -13,17 +13,23 @@ import {
   verticalScale,
 } from "../../Utils/Dimensions";
 import Colors from "../../Utils/Colors";
-import ViewSlider from "react-native-view-slider";
 
 const ProjectItem = ({ item }) => {
+  const imagename = "mcs.png";
+  const imagename2 = `${item?.imagename}`;
+  console.log("imagename", imagename);
+  console.log("imagename2", `${imagename2}`);
+  const jsonString = JSON.stringify(imagename2);
   return (
     <View style={styles.container}>
       <Text style={styles.textstyle}>{item.name}</Text>
       <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
-        <Image
-          style={styles.image}
-          source={require("../../assets/Images/shivang_resume.jpeg")}
-        />
+        {imagename2 && (
+          <Image
+            style={styles.image}
+            source={require(`../../assets/Images/${item?.imagename}`)}
+          />
+        )}
         <View
           style={{
             gap: moderateScale(2),

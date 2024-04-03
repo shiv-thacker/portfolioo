@@ -1,9 +1,11 @@
 const jamrio = [
   {
     position: "React Native developer",
+    companypic: "jamrio.png",
+    LinkedIn: "https://in.linkedin.com/company/jamrioapp",
     company: "Jamrio, Bangluru",
     duration: "Sep-2023 to present",
-    description: `For the past 8 months, I've been a React Native developer at Jamrio, a Bangalore-based company building a social media platform for creators. In the last 3 months, I've transitioned into a leadership role, taking ownership of the entire frontend development (React Native) for the platform. My responsibilities include:
+    description: `For the past 8 months, I've been a React Native developer at Jamrio, a Bangalore-based start up company building a social media platform for creators. In the last 3 months, I've transitioned into a leadership role, taking ownership of the entire frontend development (React Native) for the platform. My responsibilities include:
 
     Feature Development: Designing and implementing new features to enhance the user experience for creators and their audiences.
     Bug Resolution: Proactively identifying and resolving bugs to ensure a smooth and stable platform.
@@ -17,6 +19,8 @@ const hitcoach = [
   {
     position:
       "React Native Development Internship at Hitcoach (Remote - UK) - 1 Month (Part-Time)",
+    companypic: "hitcoach.png",
+    LinkedIn: "https://uk.linkedin.com/company/hitcoach",
     company: "Hircoach, UK",
     duration: "dec-2023 to january 2024",
     description: `Building a Performance Tracking App for Athletes
@@ -38,6 +42,7 @@ const self_employed = [
   {
     position:
       "Independent Software Development & Entrepreneurship (April 2022 - September 2023)",
+    companypic: "",
     company: "SS BROTHERS",
     duration: "Apr 2022 to Sep-2023",
     description: `Independent Software Development & Entrepreneurship (April 2022 - September 2023)

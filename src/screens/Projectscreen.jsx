@@ -11,32 +11,8 @@ const Projectscreen = ({ navigation }) => {
     <View style={styles.container}>
       <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
         <Header navigation={navigation} title={"Projects"} />
-        <View style={styles.projectContainer}>
-          <View style={styles.indiProject}>
-            <Text style={styles.title}>React Native & Firebase Projects</Text>
-            <Project project={rnf} />
-          </View>
-        </View>
-        <View style={styles.projectContainer}>
-          <View style={styles.indiProject}>
-            <Text style={styles.title}>
-              React Native & Node js (Full Stack)
-            </Text>
-            <Project project={rnn} />
-          </View>
-        </View>
-        <View style={styles.projectContainer}>
-          <View style={styles.indiProject}>
-            <Text style={styles.title}>React Native Website</Text>
-            <Project project={rnw} />
-          </View>
-        </View>
-        <View style={styles.projectContainer}>
-          <View style={styles.indiProject}>
-            <Text style={styles.title}>React Native</Text>
-            <Project project={rn} />
-          </View>
-        </View>
+
+        <Project />
       </ScrollView>
     </View>
   );

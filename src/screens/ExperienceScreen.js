@@ -1,12 +1,16 @@
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, View, ScrollView } from "react-native";
 import React from "react";
 import Colors from "../Utils/Colors";
 import Header from "../Common/Header";
+import Experiences from "../Components/ExperienceCOmponents/Experiences";
 
 const ExperienceScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
-      <Header navigation={navigation} title={"Experience"} />
+      <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
+        <Header navigation={navigation} title={"Experience"} />
+        <Experiences />
+      </ScrollView>
     </View>
   );
 };

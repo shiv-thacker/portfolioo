@@ -1,7 +1,7 @@
 const rnf = [
   {
     name: "EVC(EV charging) Finder App",
-    imagename: "shivang_resume.jpg",
+    imagename: "EVC.png",
     skills: [
       "Expo",
 
@@ -28,7 +28,7 @@ const rnf = [
   },
   {
     name: "Chat App",
-    imagename: "shivang_resume.jpg",
+    imagename: "firebasechat.png",
     skills: [
       "Expo",
 
@@ -51,7 +51,7 @@ const rnf = [
 const rnn = [
   {
     name: "E-commerce app",
-    imagename: "shivang_resume.jpg",
+    imagename: "expo.png",
     skills: [
       "Expo",
 
@@ -76,7 +76,7 @@ const rnn = [
   },
   {
     name: "Social Media App",
-    imagename: "shivang_resume.jpg",
+    imagename: "socialmedia.png",
     skills: [
       "React-Native CLI",
       "Navigation- React navigation",
@@ -116,8 +116,12 @@ const rnw = [
 const rn = [
   {
     name: "Pricedrop",
-    imagename: "shivang_resume.jpg",
-    skills: ["React Native CLI", "Navigation- React navigation"],
+    imagename: "pricesrop.png",
+    skills: [
+      "React Native CLI",
+      "Navigation- React navigation",
+      "Firebase cloud messaging",
+    ],
 
     screenRecording:
       "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view?usp=drive_link",
@@ -128,8 +132,8 @@ const rn = [
   },
   {
     name: "MCS - Mobile cricket scoring app",
-    imagename: "shivang_resume.jpg",
-    skills: ["React Native CLI", "Navigation- React navigation"],
+    imagename: "mcs.png",
+    skills: ["React Native CLI", "Navigation- React navigation", "Google Ads"],
 
     screenRecording:
       "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view?usp=drive_link",
@@ -140,7 +144,7 @@ const rn = [
   },
   {
     name: "Noise Detector",
-    imagename: "shivang_resume.jpg",
+    imagename: "socialmedia.png",
     skills: ["React Native CLI", "Navigation- React navigation"],
 
     screenRecording:
