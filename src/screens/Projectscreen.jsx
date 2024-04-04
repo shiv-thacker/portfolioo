@@ -10,7 +10,12 @@ const Projectscreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
       <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
-        <Header navigation={navigation} title={"Projects"} />
+        <Header
+          navigation={navigation}
+          title={
+            "Projects ( React Native & Firebase, React Native & Nodejs, React Native Website, Only React Native )"
+          }
+        />
 
         <Project />
       </ScrollView>

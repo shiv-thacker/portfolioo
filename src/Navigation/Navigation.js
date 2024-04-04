@@ -18,8 +18,8 @@ const Navigation = () => {
           options={{ headerShown: false }}
         />
         <Stack.Screen
-          component={Projectscreen}
-          name="Projectscreen"
+          component={SkillsScreen}
+          name="SkillsScreen"
           options={{ headerShown: false }}
         />
 
@@ -30,8 +30,8 @@ const Navigation = () => {
         />
 
         <Stack.Screen
-          component={SkillsScreen}
-          name="SkillsScreen"
+          component={Projectscreen}
+          name="Projectscreen"
           options={{ headerShown: false }}
         />
       </Stack.Navigator>

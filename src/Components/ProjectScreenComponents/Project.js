@@ -22,7 +22,7 @@ const Project = ({ project }) => {
     <>
       <View style={styles.projectContainer}>
         <View style={styles.indiProject}>
-          <Text style={styles.title}>React Native & Firebase Projects</Text>
+          <Text style={styles.title}>1. React Native & Firebase Projects</Text>
           <ScrollView horizontal>
             <View style={styles.container}>
               <Text style={styles.textstyle}>{rnf[0].name}</Text>
@@ -109,7 +109,9 @@ const Project = ({ project }) => {
       </View>
       <View style={styles.projectContainer}>
         <View style={styles.indiProject}>
-          <Text style={styles.title}>React Native & Nodejs (Full Stack)</Text>
+          <Text style={styles.title}>
+            2. React Native & Nodejs (Full Stack)
+          </Text>
           <ScrollView horizontal>
             <View style={styles.container}>
               <Text style={styles.textstyle}>{rnn[0].name}</Text>
@@ -196,7 +198,7 @@ const Project = ({ project }) => {
       </View>
       <View style={styles.projectContainer}>
         <View style={styles.indiProject}>
-          <Text style={styles.title}>React Native Website</Text>
+          <Text style={styles.title}>3. React Native Website</Text>
           <ScrollView horizontal>
             <View style={styles.container}>
               <Text style={styles.textstyle}>{rnw[0].name}</Text>
@@ -243,7 +245,7 @@ const Project = ({ project }) => {
       </View>
       <View style={styles.projectContainer}>
         <View style={styles.indiProject}>
-          <Text style={styles.title}>React Native</Text>
+          <Text style={styles.title}>4. Only React Native</Text>
           <ScrollView horizontal>
             <View style={styles.container}>
               <Text style={styles.textstyle}>{rn[0].name}</Text>

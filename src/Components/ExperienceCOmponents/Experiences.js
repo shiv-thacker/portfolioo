@@ -15,96 +15,144 @@ import {
   verticalScale,
 } from "../../Utils/Dimensions";
 import Colors from "../../Utils/Colors";
-import { rnf, rnn, rnw, rn } from "../../assets/jsondata/projectdata";
+
+import {
+  jamrio,
+  hitcoach,
+  self_employed,
+} from "../../assets/jsondata/Experiencedata";
 
 const Experiences = ({ project }) => {
   return (
     <>
       <View style={styles.projectContainer}>
-        <View style={styles.indiProject}>
-          <Text style={styles.title}>React Native & Firebase Projects</Text>
-          <ScrollView horizontal>
-            <View style={styles.container}>
-              <Text style={styles.textstyle}>{rnf[0].name}</Text>
-              <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
-                <Image
-                  style={styles.image}
-                  source={require(`../../assets/Images/EVC.png`)}
-                />
+        <View style={styles.container}>
+          <Text style={styles.position}>{jamrio[0].position}</Text>
+          <View
+            style={{
+              justifyContent: "space-between",
+              flexDirection: "row",
+            }}
+          >
+            <Text style={styles.textstyle}>{jamrio[0].company}</Text>
+            <Text style={styles.textstyle}>{jamrio[0].duration}</Text>
+          </View>
 
-                <View
-                  style={{
-                    gap: moderateScale(2),
-                    marginHorizontal: horizontalScale(4),
-                  }}
-                >
-                  <Text style={styles.skillsstyle}>Made With</Text>
-                  {rnf[0].skills.map((item, index) => (
-                    <Text style={styles.skillsstyle}>- {item}</Text>
-                  ))}
-                </View>
-              </View>
-              <View
-                style={{
-                  justifyContent: "space-between",
-                  flexDirection: "row",
-                  flex: 1,
-                  alignItems: "flex-end",
-                }}
-              >
-                <TouchableOpacity
-                  onPress={() => Linking.openURL(`${rnf[0].screenRecording}`)}
-                >
-                  <Text style={styles.linktext}>Screen Recording</Text>
-                </TouchableOpacity>
-                <TouchableOpacity
-                  onPress={() => Linking.openURL(`${rnf[0].playstorelink}`)}
-                >
-                  <Text style={styles.linktext}>Playstore link</Text>
-                </TouchableOpacity>
-              </View>
-            </View>
-            <View style={styles.container}>
-              <Text style={styles.textstyle}>{rnf[1].name}</Text>
-              <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
-                <Image
-                  style={styles.image}
-                  source={require(`../../assets/Images/firebasechat.png`)}
-                />
+          <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
+            <Image
+              style={styles.image}
+              source={require(`../../assets/Images/Jamrio.png`)}
+            />
 
-                <View
-                  style={{
-                    gap: moderateScale(2),
-                    marginHorizontal: horizontalScale(4),
-                  }}
-                >
-                  <Text style={styles.skillsstyle}>Made With</Text>
-                  {rnf[1].skills.map((item, index) => (
-                    <Text style={styles.skillsstyle}>- {item}</Text>
-                  ))}
-                </View>
-              </View>
-              <View
-                style={{
-                  justifyContent: "space-between",
-                  flexDirection: "row",
-                  flex: 1,
-                  alignItems: "flex-end",
-                }}
-              >
-                <TouchableOpacity
-                  onPress={() => Linking.openURL(`${rnf[1].screenRecording}`)}
-                >
-                  <Text style={styles.linktext}>Screen Recording</Text>
-                </TouchableOpacity>
-                <TouchableOpacity
-                  onPress={() => Linking.openURL(`${rnf[1].playstorelink}`)}
-                >
-                  <Text style={styles.linktext}>Playstore link</Text>
-                </TouchableOpacity>
-              </View>
+            <View
+              style={{
+                gap: moderateScale(2),
+                marginHorizontal: horizontalScale(4),
+                flex: 1,
+              }}
+            >
+              <Text style={styles.jobdescription}>Decription</Text>
+
+              <Text style={styles.skillsstyle}>{jamrio[0].description}</Text>
             </View>
-          </ScrollView>
+          </View>
+          <View
+            style={{
+              justifyContent: "flex-end",
+              flexDirection: "row",
+              flex: 1,
+              alignItems: "flex-end",
+            }}
+          >
+            <TouchableOpacity
+              onPress={() => Linking.openURL(`${jamrio[0].LinkedIn}`)}
+            >
+              <Text style={styles.linktext}>LinkedIn</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+        <View style={styles.container}>
+          <Text style={styles.position}>{hitcoach[0].position}</Text>
+          <View
+            style={{
+              justifyContent: "space-between",
+              flexDirection: "row",
+            }}
+          >
+            <Text style={styles.textstyle}>{hitcoach[0].company}</Text>
+            <Text style={styles.textstyle}>{hitcoach[0].duration}</Text>
+          </View>
+
+          <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
+            <Image
+              style={styles.image}
+              source={require(`../../assets/Images/hitcoach.png`)}
+            />
+
+            <View
+              style={{
+                gap: moderateScale(2),
+                marginHorizontal: horizontalScale(4),
+                flex: 1,
+              }}
+            >
+              <Text style={styles.jobdescription}>Decription</Text>
+
+              <Text style={styles.skillsstyle}>{hitcoach[0].description}</Text>
+            </View>
+          </View>
+          <View
+            style={{
+              justifyContent: "space-between",
+              flexDirection: "row",
+              flex: 1,
+              alignItems: "flex-end",
+            }}
+          >
+            <TouchableOpacity
+              onPress={() => Linking.openURL(`${hitcoach[0].LinkedIn}`)}
+            >
+              <Text style={styles.linktext}>Internship Certificate</Text>
+            </TouchableOpacity>
+            <TouchableOpacity
+              onPress={() => Linking.openURL(`${hitcoach[0].LinkedIn}`)}
+            >
+              <Text style={styles.linktext}>LinkedIn</Text>
+            </TouchableOpacity>
+          </View>
+        </View>
+        <View style={styles.container}>
+          <Text style={styles.position}>{self_employed[0].position}</Text>
+          <View
+            style={{
+              justifyContent: "space-between",
+              flexDirection: "row",
+            }}
+          >
+            <Text style={styles.textstyle}>{self_employed[0].company}</Text>
+            <Text style={styles.textstyle}>{self_employed[0].duration}</Text>
+          </View>
+
+          <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
+            <Image
+              style={styles.image}
+              source={require(`../../assets/Images/user.jpeg`)}
+            />
+
+            <View
+              style={{
+                gap: moderateScale(2),
+                marginHorizontal: horizontalScale(4),
+                flex: 1,
+              }}
+            >
+              <Text style={styles.jobdescription}>Decription</Text>
+
+              <Text style={styles.skillsstyle}>
+                {self_employed[0].description}
+              </Text>
+            </View>
+          </View>
         </View>
       </View>
     </>
@@ -124,7 +172,7 @@ const styles = StyleSheet.create({
   },
   textstyle: {
     fontWeight: "500",
-    fontSize: moderateScale(10),
+    fontSize: moderateScale(7),
   },
   image: {
     width: horizontalScale(60),
@@ -132,14 +180,23 @@ const styles = StyleSheet.create({
   },
 
   linktext: {
-    color: Colors.BLUE,
-    fontSize: verticalScale(15),
+    color: Colors.WHITE,
+    fontSize: verticalScale(20),
     fontWeight: "500",
+    letterSpacing: horizontalScale(0.2),
+    backgroundColor: Colors.BLUE,
+    padding: moderateScale(2),
+    borderRadius: moderateScale(2),
+  },
+  jobdescription: {
+    color: Colors.BLACK,
+    fontSize: verticalScale(20),
+    fontWeight: "700",
     letterSpacing: horizontalScale(0.2),
   },
   skillsstyle: {
     color: Colors.BLACK,
-    fontSize: verticalScale(15),
+    fontSize: verticalScale(18),
     fontWeight: "500",
     letterSpacing: horizontalScale(0.2),
   },
@@ -149,12 +206,11 @@ const styles = StyleSheet.create({
     gap: verticalScale(4),
   },
 
-  title: {
-    color: Colors.BLACK,
-    fontSize: verticalScale(30),
-    fontWeight: "600",
-  },
   indiProject: {
     gap: verticalScale(3),
+  },
+  position: {
+    fontWeight: "500",
+    fontSize: moderateScale(10),
   },
 });

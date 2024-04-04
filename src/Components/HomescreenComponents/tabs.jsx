@@ -74,7 +74,7 @@ const Tabs = () => {
           loop={true}
           hover={true}
         ></Player>
-        <Text style={styles.textstyle}>Skills & Education</Text>
+        <Text style={styles.textstyle}>About Me</Text>
       </TouchableOpacity>
     </View>
   );
