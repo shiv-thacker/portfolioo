@@ -3,6 +3,9 @@
     "name": "portfolio",
     "slug": "portfolio",
     "version": "1.0.0",
+    "experiments": {
+      "baseUrl": "/portfolio"
+    },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -11,9 +14,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
