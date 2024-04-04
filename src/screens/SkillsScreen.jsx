@@ -8,7 +8,7 @@ const SkillsScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
       <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
-        <Header navigation={navigation} title={"About Me"} />
+        <Header navigation={navigation} title={"About Me "} />
         <Aboutme />
       </ScrollView>
     </View>
