@@ -8,7 +8,7 @@ const ExperienceScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
       <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
-        <Header navigation={navigation} title={"Experience"} />
+        <Header navigation={navigation} title={"Experience "} />
         <Experiences />
       </ScrollView>
     </View>
