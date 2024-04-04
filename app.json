@@ -6,7 +6,7 @@
     "experiments": {
       "baseUrl": "/portfolioo"
     },
-    "orientation": "portrait",
+    "orientation": "landscape",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {

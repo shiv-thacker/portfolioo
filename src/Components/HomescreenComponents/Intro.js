@@ -1,7 +1,12 @@
 import { StyleSheet, Text, View, Image } from "react-native";
 import React from "react";
 import Colors from "../../Utils/Colors";
-import { horizontalScale, verticalScale } from "../../Utils/Dimensions";
+import {
+  horizontalScale,
+  verticalScale,
+  windowHeight,
+  windowWidth,
+} from "../../Utils/Dimensions";
 import { Player } from "@lottiefiles/react-lottie-player";
 
 const Intro = () => {
@@ -18,21 +23,10 @@ const Intro = () => {
         loop={true}
         hover={true}
       ></Player>
-      <Text
-        style={{
-          textAlign: "center",
-          color: Colors.BLACK,
-          position: "absolute",
-          top: verticalScale(10),
-          left: verticalScale(10),
-          fontWeight: "600",
-        }}
-      >
-        #MADE_WITH_REACTNATIVE_EXPO
-      </Text>
+      <Text style={styles.madewith}>#MADE_WITH_REACTNATIVE_EXPO</Text>
       <View
         style={{
-          padding: verticalScale(40),
+          padding: windowWidth > 900 ? verticalScale(40) : verticalScale(10),
           flexDirection: "row",
           alignItems: "center",
         }}
@@ -78,5 +72,14 @@ const styles = StyleSheet.create({
     width: horizontalScale(60),
     height: horizontalScale(60),
     borderRadius: 999,
+  },
+  madewith: {
+    textAlign: "center",
+    color: Colors.BLACK,
+    position: "absolute",
+    top: verticalScale(10),
+    left: verticalScale(10),
+    fontWeight: "600",
+    fontSize: windowWidth > 900 ? verticalScale(18) : verticalScale(18),
   },
 });

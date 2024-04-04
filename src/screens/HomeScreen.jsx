@@ -1,12 +1,20 @@
-import { StyleSheet, Text, View } from "react-native";
-import React from "react";
+import { StyleSheet, Text, View, Alert } from "react-native";
+import React, { useEffect } from "react";
 import Colors from "../Utils/Colors";
-import { horizontalScale, verticalScale } from "../Utils/Dimensions";
+
 import Intro from "../Components/HomescreenComponents/Intro";
 import { ScrollView } from "react-native-web";
 import Tabs from "../Components/HomescreenComponents/tabs";
+import { windowWidth } from "../Utils/Dimensions";
 
 const HomeScreen = () => {
+  useEffect(() => {
+    if (windowWidth < 450) {
+      alert(
+        "please rotate your phone(landscape) and refresh for better result"
+      );
+    }
+  }, []);
   return (
     <View style={styles.container}>
       <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
