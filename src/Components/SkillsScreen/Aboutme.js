@@ -106,27 +106,39 @@ const Aboutme = ({ project }) => {
             </View>
             <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
               <FontAwesome name="linkedin-square" size={24} color="black" />
-              <View
+              <TouchableOpacity
                 style={{
                   gap: moderateScale(2),
                   marginHorizontal: horizontalScale(4),
                   flex: 1,
                 }}
+                onPress={() =>
+                  Linking.openURL(
+                    "https://www.linkedin.com/in/shivang-thacker-4b1a481b9/"
+                  )
+                }
               >
-                <Text style={styles.skillsstyle}>{Contact[0].LinkedIn}</Text>
-              </View>
+                <Text style={[styles.skillsstyle, { color: Colors.BLUE }]}>
+                  {Contact[0].LinkedIn}
+                </Text>
+              </TouchableOpacity>
             </View>
             <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
               <FontAwesome name="github-square" size={24} color="black" />
-              <View
+              <TouchableOpacity
                 style={{
                   gap: moderateScale(2),
                   marginHorizontal: horizontalScale(4),
                   flex: 1,
                 }}
+                onPress={() =>
+                  Linking.openURL("https://github.com/shiv-thacker")
+                }
               >
-                <Text style={styles.skillsstyle}>{Contact[0].Github}</Text>
-              </View>
+                <Text style={[styles.skillsstyle, { color: Colors.BLUE }]}>
+                  {Contact[0].Github}
+                </Text>
+              </TouchableOpacity>
             </View>
           </View>
         </View>
