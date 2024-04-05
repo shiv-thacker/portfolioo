@@ -118,7 +118,7 @@ const Project = ({ project }) => {
               <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
                 <Image
                   style={styles.image}
-                  source={require(`../../assets/Images/expo.png`)}
+                  source={require(`../../assets/Images/ecommerce.png`)}
                 />
 
                 <View
@@ -187,9 +187,14 @@ const Project = ({ project }) => {
                   <Text style={styles.linktext}>Screen Recording</Text>
                 </TouchableOpacity>
                 <TouchableOpacity
-                  onPress={() => Linking.openURL(`${rnn[1].playstorelink}`)}
+                  onPress={() => Linking.openURL(`${rnn[1].codelink}`)}
                 >
-                  <Text style={styles.linktext}>View Code</Text>
+                  <Text style={styles.linktext}>Frontend code</Text>
+                </TouchableOpacity>
+                <TouchableOpacity
+                  onPress={() => Linking.openURL(`${rnn[1].codelink2}`)}
+                >
+                  <Text style={styles.linktext}>Backedn code</Text>
                 </TouchableOpacity>
               </View>
             </View>
@@ -222,21 +227,16 @@ const Project = ({ project }) => {
               </View>
               <View
                 style={{
-                  justifyContent: "space-between",
+                  justifyContent: "flex-end",
                   flexDirection: "row",
                   flex: 1,
                   alignItems: "flex-end",
                 }}
               >
                 <TouchableOpacity
-                  onPress={() => Linking.openURL(`${rnw[0].screenRecording}`)}
-                >
-                  <Text style={styles.linktext}>Screen Recording</Text>
-                </TouchableOpacity>
-                <TouchableOpacity
                   onPress={() => Linking.openURL(`${rnw[0].playstorelink}`)}
                 >
-                  <Text style={styles.linktext}>View Code</Text>
+                  <Text style={styles.linktext}>Visit Website</Text>
                 </TouchableOpacity>
               </View>
             </View>
@@ -399,6 +399,9 @@ const styles = StyleSheet.create({
     fontSize: verticalScale(15),
     fontWeight: "500",
     letterSpacing: horizontalScale(0.2),
+    backgroundColor: "#DDDDDD",
+    padding: moderateScale(2),
+    paddingHorizontal: moderateScale(4),
   },
   skillsstyle: {
     color: Colors.BLACK,

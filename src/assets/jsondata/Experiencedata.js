@@ -23,7 +23,8 @@ const hitcoach = [
     LinkedIn: "https://uk.linkedin.com/company/hitcoach",
     company: "Hitcoach, UK",
     duration: "Dec 2023 to Jan 2024",
-    Internship: "",
+    Internship:
+      "https://drive.google.com/file/d/1_nMSazDQxr2YYSOlGyWApLZax9O0zeXr/view?usp=sharing",
     description: `Hitcoach is Building a Performance Tracking App for Athletes. In January 2024, I took on a part-time React Native development internship at Hitcoach, a UK-based sports technology startup. During this month, I collaborated remotely with the team to develop an Android application for athletes.
     
     Key Responsibilities:

@@ -20,11 +20,12 @@ const rnf = [
     ],
 
     screenRecording:
-      "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view?usp=drive_link",
-    codelink: "https://github.com/shiv-thacker/Noise_Detector",
+      "https://drive.google.com/file/d/1aiW3Z6hEe99bOdf0OkgcySZKKBVQBoa9/view?usp=drive_link",
+    codelink:
+      "https://play.google.com/store/apps/details?id=com.shivang_thacker.EVChargingStationApp",
     codelink2: "",
     playstorelink:
-      "https://play.google.com/store/apps/details?id=com.keepa.mobile",
+      "https://play.google.com/store/apps/details?id=com.shivang_thacker.EVChargingStationApp",
   },
   {
     name: "Chat App",
@@ -40,18 +41,19 @@ const rnf = [
     ],
 
     screenRecording:
-      "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view?usp=drive_link",
-    codelink: "https://github.com/shiv-thacker/Noise_Detector",
+      "https://drive.google.com/file/d/1at2Fd7FaTLfSr55Xpdk-PEpqaapHAgpy/view?usp=sharing",
+    codelink:
+      "https://play.google.com/store/apps/details?id=com.shivang_thacker.firebase_chat",
     codelink2: "",
     playstorelink:
-      "https://play.google.com/store/apps/details?id=com.keepa.mobile",
+      "https://play.google.com/store/apps/details?id=com.shivang_thacker.firebase_chat",
   },
 ];
 
 const rnn = [
   {
-    name: "E-commerce app",
-    imagename: "expo.png",
+    name: "Amazon clone(E-commerce app)",
+    imagename: "ecommerce.png",
     skills: [
       "Expo",
 
@@ -68,11 +70,10 @@ const rnn = [
     ],
 
     screenRecording:
-      "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view?usp=drive_link",
-    codelink: "https://github.com/shiv-thacker/Noise_Detector",
+      "https://drive.google.com/file/d/1blk43XmMsBBDuj9ytlIOsU_fz0TLPymx/view?usp=sharing",
+    codelink: "https://github.com/shiv-thacker/e-commers",
     codelink2: "",
-    playstorelink:
-      "https://play.google.com/store/apps/details?id=com.keepa.mobile",
+    playstorelink: "https://github.com/shiv-thacker/e-commers",
   },
   {
     name: "Social Media App",
@@ -90,11 +91,10 @@ const rnn = [
     ],
 
     screenRecording:
-      "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view?usp=drive_link",
-    codelink: "https://github.com/shiv-thacker/Noise_Detector",
-    codelink2: "",
-    playstorelink:
-      "https://play.google.com/store/apps/details?id=com.keepa.mobile",
+      "https://drive.google.com/file/d/1WeitNVrRozQruaxSGLD0ejpkxZfV4tnp/view?usp=drive_link",
+    codelink: "https://github.com/shiv-thacker/socialmedia_frontend",
+    codelink2: "https://github.com/shiv-thacker/socialmedia_backend",
+    playstorelink: "",
   },
 ];
 
@@ -106,10 +106,9 @@ const rnw = [
 
     screenRecording:
       "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view?usp=drive_link",
-    codelink: "https://github.com/shiv-thacker/Noise_Detector",
+    codelink: "https://shiv-thacker.github.io/portfolioo/",
     codelink2: "",
-    playstorelink:
-      "https://play.google.com/store/apps/details?id=com.keepa.mobile",
+    playstorelink: "https://shiv-thacker.github.io/portfolioo/",
   },
 ];
 
@@ -124,11 +123,11 @@ const rn = [
     ],
 
     screenRecording:
-      "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view?usp=drive_link",
-    codelink: "https://github.com/shiv-thacker/Noise_Detector",
+      "https://drive.google.com/file/d/1bWe-oUh9sF4A0X4nMBT6Mv6BtHb-8XzM/view?usp=drive_link",
+    codelink: "https://play.google.com/store/apps/details?id=com.pricedrop",
     codelink2: "",
     playstorelink:
-      "https://play.google.com/store/apps/details?id=com.keepa.mobile",
+      "https://play.google.com/store/apps/details?id=com.pricedrop",
   },
   {
     name: "MCS - Mobile cricket scoring app",
@@ -136,11 +135,12 @@ const rn = [
     skills: ["React Native CLI", "Navigation- React navigation", "Google Ads"],
 
     screenRecording:
-      "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view?usp=drive_link",
-    codelink: "https://github.com/shiv-thacker/Noise_Detector",
+      "https://drive.google.com/file/d/1ON6tdSzBSOKdY4uRcm5tL8UmXw1FmRqn/view?usp=sharing",
+    codelink:
+      "https://play.google.com/store/apps/details?id=com.gully_cricket_score",
     codelink2: "",
     playstorelink:
-      "https://play.google.com/store/apps/details?id=com.keepa.mobile",
+      "https://play.google.com/store/apps/details?id=com.gully_cricket_score",
   },
   {
     name: "Noise Detector",
@@ -148,7 +148,7 @@ const rn = [
     skills: ["React Native CLI", "Navigation- React navigation"],
 
     screenRecording:
-      "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view?usp=drive_link",
+      "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view",
     codelink: "https://github.com/shiv-thacker/Noise_Detector",
     codelink2: "",
     playstorelink:

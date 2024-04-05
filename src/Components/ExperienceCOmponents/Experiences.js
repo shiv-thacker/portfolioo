@@ -110,7 +110,7 @@ const Experiences = ({ project }) => {
             }}
           >
             <TouchableOpacity
-              onPress={() => Linking.openURL(`${hitcoach[0].LinkedIn}`)}
+              onPress={() => Linking.openURL(`${hitcoach[0].Internship}`)}
             >
               <Text style={styles.linktext}>Internship Certificate</Text>
             </TouchableOpacity>
