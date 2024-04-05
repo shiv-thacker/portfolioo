@@ -52,7 +52,7 @@ const Aboutme = ({ project }) => {
                 }}
               >
                 <Text style={styles.skillsstyle}>
-                  Gujarat Technical University
+                  Gujarat Technological University
                 </Text>
                 <Text style={styles.skillsstyle}>
                   CGPA :- {Education[0].cgpa} (5th rank in University)
