@@ -65,3 +65,10 @@ const self_employed = [
 ];
 
 export { jamrio, hitcoach, self_employed };
+
+// Software App Developer Intern
+// JAN 2022 -APR 2022 (Internship)
+// Redtron Education Service LLP
+// Collaborated on an Android app for stock market enthusiasts, implementing
+// Firebase authentication, OTP management, Google login, and seamless data
+// retrieval for real-time stock market updates.
