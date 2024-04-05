@@ -151,8 +151,7 @@ const rn = [
       "https://drive.google.com/file/d/1TDDTZAQ_J9YM4O_X-PQ6niDiwiurXmDq/view",
     codelink: "https://github.com/shiv-thacker/Noise_Detector",
     codelink2: "",
-    playstorelink:
-      "https://play.google.com/store/apps/details?id=com.keepa.mobile",
+    playstorelink: "https://github.com/shiv-thacker/Noise_Detector",
   },
 ];
 

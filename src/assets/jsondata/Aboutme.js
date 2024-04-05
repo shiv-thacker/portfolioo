@@ -2,7 +2,8 @@ const Education = [
   {
     college: "V.V.P. ENGINEERING COLLEGE, Rajkot - B.Tech.",
     collegepic: "vvp.jpg",
-    Certificate: "https://in.linkedin.com/company/jamrioapp",
+    Certificate:
+      "https://drive.google.com/file/d/1bplhCSnFbfiNbGnpJpLKl1jDL0yA5MQd/view?usp=sharing",
     degree: "Electronics and communication engineer",
     duration: "Aug 2018 to Apr 2022",
     cgpa: "9.54",
