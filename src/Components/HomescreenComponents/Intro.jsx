@@ -12,23 +12,28 @@ import { Player } from "@lottiefiles/react-lottie-player";
 const Intro = () => {
   return (
     <View style={styles.introcontainer}>
-      <Player
-        style={{
-          position: "absolute",
-          width: "100%",
-          zIndex: 2,
-        }}
-        src={require(`../../assets/animation/lottie_background.json`)}
-        autoPlay={true}
-        loop={true}
-        hover={true}
-      ></Player>
+      {windowWidth > 900 ? (
+        <Player
+          style={{
+            position: "absolute",
+            width: "100%",
+            zIndex: 2,
+          }}
+          src={require(`../../assets/animation/lottie_background.json`)}
+          autoPlay={true}
+          loop={true}
+          hover={true}
+        ></Player>
+      ) : null}
+
       <Text style={styles.madewith}>#MADE_WITH_REACTNATIVE_EXPO</Text>
       <View
         style={{
-          padding: windowWidth > 900 ? verticalScale(40) : verticalScale(10),
-          flexDirection: "row",
+          flexDirection: windowWidth > 900 ? "row" : "column-reverse",
+          flex: 1,
           alignItems: "center",
+          justifyContent: "center",
+          gap: verticalScale(9),
         }}
       >
         <View style={styles.textcontainer}>
@@ -53,24 +58,24 @@ const styles = StyleSheet.create({
   },
   name: {
     color: Colors.BLACK,
-    fontSize: verticalScale(30),
+    fontSize: windowWidth > 900 ? verticalScale(20) : verticalScale(15),
     textTransform: "uppercase",
     fontWeight: "500",
   },
   textcontainer: {
     marginHorizontal: horizontalScale(30),
-    flex: 0.8,
+    flex: windowWidth > 900 ? 0.8 : null,
   },
   intro: {
     color: Colors.BLUE,
-    fontSize: verticalScale(70),
+    fontSize: windowWidth > 900 ? verticalScale(70) : verticalScale(30),
     textTransform: "capitalize",
     fontWeight: "500",
     textAlign: "left",
   },
   profileImage: {
-    width: horizontalScale(60),
-    height: horizontalScale(60),
+    width: windowWidth > 900 ? horizontalScale(60) : horizontalScale(120),
+    height: windowWidth > 900 ? horizontalScale(60) : horizontalScale(120),
     borderRadius: 999,
   },
   madewith: {
@@ -80,6 +85,6 @@ const styles = StyleSheet.create({
     top: verticalScale(10),
     left: verticalScale(10),
     fontWeight: "600",
-    fontSize: windowWidth > 900 ? verticalScale(18) : verticalScale(18),
+    fontSize: windowWidth > 900 ? verticalScale(18) : verticalScale(12),
   },
 });

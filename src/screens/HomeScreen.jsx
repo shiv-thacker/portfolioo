@@ -8,13 +8,6 @@ import Tabs from "../Components/HomescreenComponents/tabs";
 import { windowWidth } from "../Utils/Dimensions";
 
 const HomeScreen = () => {
-  useEffect(() => {
-    if (windowWidth < 450) {
-      alert(
-        "please rotate your phone(landscape) and refresh for better result"
-      );
-    }
-  }, []);
   return (
     <View style={styles.container}>
       <ScrollView contentContainerStyle={{ flexGrow: 1 }}>

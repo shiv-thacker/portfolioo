@@ -5,6 +5,7 @@ import {
   horizontalScale,
   moderateScale,
   verticalScale,
+  windowWidth,
 } from "../Utils/Dimensions";
 import Colors from "../Utils/Colors";
 
@@ -29,7 +30,7 @@ export default Header;
 const styles = StyleSheet.create({
   container: {
     backgroundColor: Colors.BLUE,
-    height: verticalScale(100),
+    height: windowWidth > 900 ? verticalScale(100) : verticalScale(70),
     width: "100%",
     flexDirection: "row",
     paddingHorizontal: horizontalScale(5),
@@ -37,7 +38,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   title: {
-    fontSize: verticalScale(30),
+    fontSize: windowWidth > 900 ? verticalScale(30) : verticalScale(15),
     marginLeft: horizontalScale(5),
     color: Colors.WHITE,
     fontWeight: "500",

@@ -13,6 +13,7 @@ import {
   moderateScale,
   horizontalScale,
   verticalScale,
+  windowWidth,
 } from "../../Utils/Dimensions";
 import Colors from "../../Utils/Colors";
 import { rnf, rnn, rnw, rn } from "../../assets/jsondata/projectdata";
@@ -387,7 +388,7 @@ const styles = StyleSheet.create({
   },
   textstyle: {
     fontWeight: "500",
-    fontSize: moderateScale(10),
+    fontSize: windowWidth > 900 ? moderateScale(10) : moderateScale(20),
   },
   image: {
     width: horizontalScale(60),

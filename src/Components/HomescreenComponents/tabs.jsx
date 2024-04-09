@@ -1,7 +1,11 @@
 import { StyleSheet, Text, View, TouchableOpacity } from "react-native";
 import React, { useState, useRef } from "react";
 import Colors from "../../Utils/Colors";
-import { verticalScale, horizontalScale } from "../../Utils/Dimensions";
+import {
+  verticalScale,
+  horizontalScale,
+  windowWidth,
+} from "../../Utils/Dimensions";
 import { Player } from "@lottiefiles/react-lottie-player";
 import { AntDesign } from "@expo/vector-icons";
 import { useNavigation } from "@react-navigation/native";
@@ -16,13 +20,13 @@ const Tabs = () => {
       >
         <AntDesign
           name="arrowright"
-          size={verticalScale(39)}
+          size={windowWidth > 900 ? verticalScale(39) : verticalScale(23)}
           color={Colors.BLUE}
           style={{ alignSelf: "flex-end" }}
         />
         <Player
           style={{
-            height: verticalScale(200),
+            height: windowWidth > 900 ? verticalScale(200) : verticalScale(100),
             width: horizontalScale(100),
           }}
           src={require(`../../assets/animation/lottie_mobile_project.json`)}
@@ -38,13 +42,13 @@ const Tabs = () => {
       >
         <AntDesign
           name="arrowright"
-          size={verticalScale(39)}
+          size={windowWidth > 900 ? verticalScale(39) : verticalScale(23)}
           color={Colors.BLUE}
           style={{ alignSelf: "flex-end" }}
         />
         <Player
           style={{
-            height: verticalScale(200),
+            height: windowWidth > 900 ? verticalScale(200) : verticalScale(100),
             width: horizontalScale(100),
           }}
           src={require(`../../assets/animation/lottie_experience.json`)}
@@ -60,13 +64,13 @@ const Tabs = () => {
       >
         <AntDesign
           name="arrowright"
-          size={verticalScale(39)}
+          size={windowWidth > 900 ? verticalScale(39) : verticalScale(23)}
           color={Colors.BLUE}
           style={{ alignSelf: "flex-end" }}
         />
         <Player
           style={{
-            height: verticalScale(200),
+            height: windowWidth > 900 ? verticalScale(200) : verticalScale(100),
             width: horizontalScale(100),
           }}
           src={require(`../../assets/animation/lottie_skills.json`)}
@@ -89,13 +93,15 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-around",
     alignItems: "center",
+
+    flexWrap: "wrap",
   },
   tabcontainer: {
-    height: "75%",
-    width: "30%",
+    height: windowWidth > 900 ? "75%" : "40%",
+    width: windowWidth > 900 ? "30%" : "40%",
     backgroundColor: Colors.WHITE,
     borderRadius: horizontalScale(12),
-    padding: verticalScale(20),
+    padding: windowWidth > 900 ? verticalScale(20) : verticalScale(2),
     shadowRadius: 20,
     justifyContent: "center",
     alignItems: "center",
@@ -103,6 +109,6 @@ const styles = StyleSheet.create({
   textstyle: {
     color: Colors.BLUE,
     fontWeight: "500",
-    fontSize: verticalScale(35),
+    fontSize: windowWidth > 900 ? verticalScale(35) : verticalScale(20),
   },
 });
