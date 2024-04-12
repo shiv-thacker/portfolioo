@@ -4,7 +4,7 @@ const jamrio = [
     companypic: "jamrio.png",
     LinkedIn: "https://in.linkedin.com/company/jamrioapp",
     company: "Jamrio Technologies Private Limited, Bangluru",
-    duration: "Sep 2023 to present (8 months)",
+    duration: "Sep 2023 to present",
     description: `For the past 8 months, I've been a React Native developer at Jamrio, a Bangalore-based start up company building a social media platform for creators. In the last 3 months, I've transitioned into a leadership role, taking ownership of the entire frontend development (React Native) for the platform.
     My responsibilities include:
     -Feature Development: Designing and implementing new features to enhance the user experience for creators and their audiences.
@@ -17,8 +17,7 @@ const jamrio = [
 
 const hitcoach = [
   {
-    position:
-      "React Native Development Internship at Hitcoach (Remote - UK) - 1 Month (Part-Time)",
+    position: "React Native Development Internship  (Part-Time)",
     companypic: "hitcoach.png",
     LinkedIn: "https://uk.linkedin.com/company/hitcoach",
     company: "Hitcoach, UK",

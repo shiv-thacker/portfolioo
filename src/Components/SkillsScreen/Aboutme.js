@@ -13,6 +13,7 @@ import {
   moderateScale,
   horizontalScale,
   verticalScale,
+  windowWidth,
 } from "../../Utils/Dimensions";
 import Colors from "../../Utils/Colors";
 import { FontAwesome } from "@expo/vector-icons";
@@ -160,31 +161,25 @@ const styles = StyleSheet.create({
   },
   textstyle: {
     fontWeight: "500",
-    fontSize: moderateScale(7),
+    fontSize: windowWidth > 900 ? moderateScale(7) : moderateScale(10),
   },
   image: {
-    width: horizontalScale(30),
-    height: horizontalScale(30),
+    width: windowWidth > 900 ? horizontalScale(30) : horizontalScale(60),
+    height: windowWidth > 900 ? horizontalScale(30) : horizontalScale(60),
   },
 
   linktext: {
     color: Colors.WHITE,
-    fontSize: verticalScale(20),
+    fontSize: windowWidth > 900 ? verticalScale(20) : moderateScale(13),
     fontWeight: "500",
     letterSpacing: horizontalScale(0.2),
     backgroundColor: Colors.BLUE,
     padding: moderateScale(4),
     borderRadius: moderateScale(2),
   },
-  jobdescription: {
-    color: Colors.BLACK,
-    fontSize: verticalScale(20),
-    fontWeight: "700",
-    letterSpacing: horizontalScale(0.2),
-  },
   skillsstyle: {
     color: Colors.BLACK,
-    fontSize: verticalScale(18),
+    fontSize: windowWidth > 900 ? verticalScale(18) : moderateScale(12),
     fontWeight: "500",
     letterSpacing: horizontalScale(0.2),
   },
@@ -199,11 +194,11 @@ const styles = StyleSheet.create({
   },
   position: {
     fontWeight: "500",
-    fontSize: moderateScale(10),
+    fontSize: windowWidth > 900 ? moderateScale(10) : moderateScale(15),
   },
   title: {
     color: Colors.BLACK,
-    fontSize: verticalScale(30),
+    fontSize: windowWidth > 900 ? verticalScale(30) : moderateScale(20),
     fontWeight: "600",
   },
 });

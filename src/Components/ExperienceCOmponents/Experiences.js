@@ -13,6 +13,7 @@ import {
   moderateScale,
   horizontalScale,
   verticalScale,
+  windowWidth,
 } from "../../Utils/Dimensions";
 import Colors from "../../Utils/Colors";
 
@@ -38,7 +39,7 @@ const Experiences = ({ project }) => {
             <Text style={styles.textstyle}>{jamrio[0].duration}</Text>
           </View>
 
-          <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
+          <View style={styles.detailscontainer}>
             <Image
               style={styles.image}
               source={require(`../../assets/Images/Jamrio.png`)}
@@ -83,7 +84,7 @@ const Experiences = ({ project }) => {
             <Text style={styles.textstyle}>{hitcoach[0].duration}</Text>
           </View>
 
-          <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
+          <View style={styles.detailscontainer}>
             <Image
               style={styles.image}
               source={require(`../../assets/Images/hitcoach.png`)}
@@ -133,7 +134,7 @@ const Experiences = ({ project }) => {
             <Text style={styles.textstyle}>{self_employed[0].duration}</Text>
           </View>
 
-          <View style={{ flexDirection: "row", gap: moderateScale(10) }}>
+          <View style={styles.detailscontainer}>
             <Image
               style={styles.image}
               source={require(`../../assets/Images/user.jpeg`)}
@@ -170,9 +171,15 @@ const styles = StyleSheet.create({
     padding: 20,
     gap: moderateScale(4),
   },
+
+  detailscontainer: {
+    flexDirection: windowWidth > 900 ? "row" : null,
+    gap: moderateScale(10),
+    alignItems: "center",
+  },
   textstyle: {
     fontWeight: "500",
-    fontSize: moderateScale(7),
+    fontSize: windowWidth > 900 ? moderateScale(7) : moderateScale(10),
   },
   image: {
     width: horizontalScale(60),
@@ -181,7 +188,7 @@ const styles = StyleSheet.create({
 
   linktext: {
     color: Colors.WHITE,
-    fontSize: verticalScale(20),
+    fontSize: windowWidth > 900 ? verticalScale(20) : moderateScale(13),
     fontWeight: "500",
     letterSpacing: horizontalScale(0.2),
     backgroundColor: Colors.BLUE,
@@ -196,7 +203,7 @@ const styles = StyleSheet.create({
   },
   skillsstyle: {
     color: Colors.BLACK,
-    fontSize: verticalScale(18),
+    fontSize: windowWidth > 900 ? verticalScale(18) : moderateScale(12),
     fontWeight: "500",
     letterSpacing: horizontalScale(0.2),
   },
@@ -211,6 +218,6 @@ const styles = StyleSheet.create({
   },
   position: {
     fontWeight: "500",
-    fontSize: moderateScale(10),
+    fontSize: windowWidth > 900 ? moderateScale(10) : moderateScale(15),
   },
 });
