@@ -5,6 +5,7 @@ import Header from "../Common/Header";
 import { horizontalScale, verticalScale } from "../Utils/Dimensions";
 import Project from "../Components/ProjectScreenComponents/Project";
 import { rnf, rnn, rnw, rn } from "../assets/jsondata/projectdata";
+import Skills from "../Components/ProjectScreenComponents/Skills";
 
 const Projectscreen = ({ navigation }) => {
   return (
@@ -16,6 +17,7 @@ const Projectscreen = ({ navigation }) => {
             "Projects ( React Native & Firebase, React Native & Nodejs, React Native Website, Only React Native )"
           }
         />
+        <Skills />
 
         <Project />
       </ScrollView>

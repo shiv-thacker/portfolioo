@@ -34,7 +34,7 @@ const Tabs = () => {
           loop={true}
           hover={true}
         ></Player>
-        <Text style={styles.textstyle}>Projects</Text>
+        <Text style={styles.textstyle}>Skills & Projects</Text>
       </TouchableOpacity>
       <TouchableOpacity
         style={styles.tabcontainer}
