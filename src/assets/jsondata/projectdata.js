@@ -100,7 +100,7 @@ const rnn = [
 
 const rnw = [
   {
-    name: "Portfolio",
+    name: "Portfolio (mobile & web friendly)",
     imagename: "shivang_resume.jpg",
     skills: ["Expo-web", "Navigation- React navigation"],
 
